@@ -1,5 +1,6 @@
 from fairsharer.fairsharer import fair_sharer
 
+
 def test_fair_sharer():
 
     # Test examples from the Taskcheat in floats
