@@ -1,16 +1,15 @@
 ## How to use fairsharer
 
-Daisy Portfolio 06
+Daisy Portfolio 06 – Data Science and AI Infrastructures.
 
-The project setup is documented in [project_setup.md](project_setup.md). Feel free to remove this document (and/or the link to this document) if you don't need it.
+This repository contains the implementation of the function `fair_sharer`,
+including unit tests and a GitHub Actions workflow for continuous integration.
 
 ## Installation
 
-To install fairsharer from GitHub repository, do:
+To install the project from the GitHub repository, run:
 
 ```console
 git clone https://github.com/meriem-bouazza/fairsharer.git
 cd fairsharer
-python -m pip install .
-# or on mac: python3 -m pip install .
-```
+python -m pip install
